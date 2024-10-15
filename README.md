@@ -1,5 +1,5 @@
 # EmbeddedProject
-small project with embedded system project with esp-32
+small embedded system project with esp-32, making a stopwatch, a timer, and a wifi acesspoint where you can type in text and it is outputted in the screen
 
 LCD:
 VCC==>3V3
